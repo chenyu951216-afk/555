@@ -1,0 +1,14 @@
+.git
+.next
+node_modules
+apps/web/.next
+apps/web/node_modules
+apps/api/__pycache__
+apps/api/app/**/__pycache__
+apps/api/tests/**/__pycache__
+.test-storage
+pytest-cache-files-*
+**/.pytest_cache
+sample-data
+github-upload-ready-*
+__github_upload_ready*
